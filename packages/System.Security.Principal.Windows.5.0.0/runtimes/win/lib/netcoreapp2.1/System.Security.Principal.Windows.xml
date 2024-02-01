@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<doc>
+  <assembly>
+    <name>System.Security.Principal.Windows</name>
+  </assembly>
+  <members>
+    <member name="T:Microsoft.Win32.SafeHandles.SafeAccessTokenHandle">
+      <summary>Provides a safe handle to a Windows thread or process access token. For more information, see Access Tokens.</summary>
+    </member>
+    <member name="M:Microsoft.Win32.SafeHandles.SafeAccessTokenHandle.#ctor(System.IntPtr)">
+      <summary>Initializes a new instance of the <see cref="T:Microsoft.Win32.SafeHandles.SafeAccessTokenHandle" /> class.</summary>
+      <param name="handle">An <see cref="T:System.IntPtr" /> object that represents the pre-existing handle to use. Using <see cref="F:System.IntPtr.Zero" /> returns an invalid handle.</param>
+    </member>
+    <member name="P:Microsoft.Win32.SafeHandles.SafeAccessTokenHandle.InvalidHandle">
+      <summary>Returns an invalid handle by instantiating a <see cref="T:Microsoft.Win32.SafeHandles.SafeAccessTokenHandle" /> object with <see cref="F:System.IntPtr.Zero" />.</summary>
+      <returns>Returns a <see cref="T:Microsoft.Win32.SafeHandles.SafeAccessTokenHandle" /> object.</returns>
+    </member>
+    <member name="P:Microsoft.Win32.SafeHandles.SafeAccessTokenHandle.IsInvalid">
+      <summary>Gets a value that indicates whether the handle is invalid.</summary>
+      <returns>
+        <see langword="true" /> if the handle is not valid; otherwise, <see langword="false" />.</returns>
+    </member>
+    <member name="T:System.Security.Principal.IdentityNotMappedException">
+      <summary>Represents an exception for a principal whose identity could not be mapped to a known identity.</summary>
+    </member>
+    <member name="M:System.Security.Principal.IdentityNotMappedException.#ctor">
+      <summary>Initializes a new instance of the <see cref="T:System.Security.Principal.IdentityNotMappedException" /> class.</summary>
+    </member>
+    <member name="M:System.Security.Principal.IdentityNotMappedException.#ctor(System.String)">
+      <summary>Initializes a new instance of the <see cref="T:System.Security.Principal.IdentityNotMappedException" /> class by using the specified error message.</summary>
+      <param name="message">The error message that explains the reason for the exception.</param>
+    </member>
+    <member name="M:System.Security.Principal.IdentityNotMappedException.#ctor(System.String,System.Exception)">
+      <summary>Initializes a new instance of the <see cref="T:System.Security.Principal.IdentityNotMappedException" /> class by using the specified error message and inner exception.</summary>
+      <param name="message">The error message that explains the reason for the exception.</param>
+      <param name="inner">The exception that is the cause of the current exception. If <paramref name="inner" /> is not null, the current exception is raised in a <see langword="catch" /> block that handles the inner exception.</param>
+    </member>
+    <member name="M:System.Security.Principal.IdentityNotMappedException.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)">
+      <summary>Gets serialization information with the data needed to create an instance of this <see cref="T:System.Security.Principal.IdentityNotMappedException" /> object.</summary>
+      <param name="serializationInfo">The object that holds the serialized object data about the exception being thrown.</param>
+      <param name="streamingContext">The object that contains contextual information about the source or destination.</param>
+    </member>
+    <member name="P:System.Security.Principal.IdentityNotMappedException.UnmappedIdentities">
+      <summary>Represents the collection of unmapped identities for an <see cref="T:System.Security.Principal.IdentityNotMappedException" /> exception.</summary>
+      <returns>The collection of unmapped identities.</returns>
+    </member>
+    <member name="T:System.Security.Principal.IdentityReference">
+      <summary>Represents an identity and is the base class for the <see cref="T:System.Security.Principal.NTAccount" /> and <see cref="T:System.Security.Principal.SecurityIdentifier" /> classes. This class does not provide a public constructor, and therefore cannot be inherited.</summary>
+    </member>
+    <member name="M:System.Security.Principal.IdentityReference.Equals(System.Object)">
+      <summary>Returns a value that indicates whether the specified object equals this instance of the <see cref="T:System.Security.Principal.IdentityReference" /> class.</summary>
+      <param name="o">An object to compare with this <see cref="T:System.Security.Principal.IdentityReference" /> instance, or a null reference.</param>
+      <returns>
+        <see langword="true" /> if <paramref name="o" /> is an object with the same underlying type and value as this <see cref="T:System.Security.Principal.IdentityReference" /> instance; otherwise, <see langword="false" />.</returns>
+    </member>
+    <member name="M:System.Security.Principal.IdentityReference.GetHashCode">
+      <summary>Serves as a hash function for <see cref="T:System.Security.Principal.IdentityReference" />. <see cref="M:System.Security.Principal.IdentityReference.GetHashCode" /> is suitable for use in hashing algorithms and data structures like a hash table.</summary>
+      <returns>The hash code for this <see cref="T:System.Security.Principal.IdentityReference" /> object.</returns>
+    </member>
+    <member name="M:System.Security.Principal.IdentityReference.IsValidTargetType(System.Type)">
+      <summary>Returns a value that indicates whether the specified type is a valid translation type for the <see cref="T:System.Security.Principal.IdentityReference" /> class.</summary>
+      <param name="targetType">The type being queried for validity to serve as a conversion from <see cref="T:System.Security.Principal.IdentityReference" />. The following target types are valid:  
+  
+ <see cref="T:System.Security.Principal.NTAccount" /><see cref="T:System.Security.Principal.SecurityIdentifier" /></param>
+      <returns>
+        <see langword="true" /> if <paramref name="targetType" /> is a valid translation type for the <see cref="T:System.Security.Principal.IdentityReference" /> class; otherwise, <see langword="false" />.</returns>
+    </member>
+    <member name="M:System.Security.Principal.IdentityReference.op_Equality(System.Security.Principal.IdentityReference,System.Security.Principal.IdentityReference)">
+      <summary>Compares two <see cref="T:System.Security.Principal.IdentityReference" /> objects to determine whether they are equal. They are considered equal if they have the same canonical name representation as the one returned by the <see cref="P:System.Security.Principal.IdentityReference.Value" /> property or if they are both <see langword="null" />.</summary>
+      <param name="left">The left <see cref="T:System.Security.Principal.IdentityReference" /> operand to use for the equality comparison. This parameter can be <see langword="null" />.</param>
+      <param name="right">The right <see cref="T:System.Security.Principal.IdentityReference" /> operand to use for the equality comparison. This parameter can be <see langword="null" />.</param>
+      <returns>
+        <see langword="true" /> if <paramref name="left" /> and <paramref name="right" /> are equal; otherwise, <see langword="false" />.</returns>
+    </member>
+    <member name="M:System.Security.Principal.IdentityReference.op_Inequality(System.Security.Principal.IdentityReference,System.Security.Principal.IdentityReference)">
+      <summary>Compares two <see cref="T:System.Security.Principal.IdentityReference" /> objects to determine whether they are not equal. They are considered not equal if they have different canonical name representations than the one returned by the <see cref="P:System.Security.Principal.IdentityReference.Value" /> property or if one of the objects is <see langword="null" /> and the other is not.</summary>
+      <param name="left">The left <see cref="T:System.Security.Principal.IdentityReference" /> operand to use for the inequality comparison. This parameter can be <see langword="null" />.</param>
+      <param name="right">The right <see cref="T:System.Security.Principal.IdentityReference" /> operand to use for the inequality comparison. This parameter can be <see langword="null" />.</param>
+      <returns>
+        <see langword="true" /> if <paramref name="left" /> and <paramref name="right" /> are not equal; otherwise, <see langword="false" />.</returns>
+    </member>
+    <member name="M:System.Security.Principal.IdentityReference.ToString">
+      <summary>Returns the string representation of the identity represented by the <see cref="T:System.Security.Principal.IdentityReference" /> object.</summary>
+      <returns>The identity in string format.</returns>
+    </member>
+    <member name="M:System.Security.Principal.IdentityReference.Translate(System.Type)">
+      <summary>Translates the account name represented by the <see cref="T:System.Security.Principal.IdentityReference" /> object into another <see cref="T:System.Security.Principal.IdentityReference" />-derived type.</summary>
+      <param name="targetType">The target type for the conversion from <see cref="T:System.Security.Principal.IdentityReference" />.</param>
+      <returns>The converted identity.</returns>
+    </member>
+    <member name="P:System.Security.Principal.IdentityReference.Value">
+      <summary>Gets the string value of the identity represented by the <see cref="T:System.Security.Principal.IdentityReference" /> object.</summary>
+      <returns>The string value of the identity represented by the <see cref="T:System.Security.Principal.IdentityReference" /> object.</returns>
+    </member>
+    <member name="T:System.Security.Principal.IdentityReferenceCollection">
+      <summary>Represents a collection of <see cref="T:System.Security.Principal.IdentityReference" /> objects and provides a means of converting sets of <see cref="T:System.Security.Principal.IdentityReference" />-derived objects to <see cref="T:System.Security.Principal.IdentityReference" />-derived types.</summary>
+    </member>
+    <member name="M:System.Security.Principal.IdentityReferenceCollection.#ctor">
+      <summary>Initializes a new instance of the <see cref="T:System.Security.Principal.IdentityReferenceCollection" /> class with zero items in the collection.</summary>
+    </member>
+    <member name="M:System.Security.Principal.IdentityReferenceCollection.#ctor(System.Int32)">
+      <summary>Initializes a new instance of the <see cref="T:System.Security.Principal.IdentityReferenceCollection" /> class by using the specified initial size.</summary>
+      <param name="capacity">The initial number of items in the collection. The value of <paramref name="capacity" /> is a hint only; it is not necessarily the maximum number of items created.</param>
+    </member>
+    <member name="M:System.Security.Principal.IdentityReferenceCollection.Add(System.Security.Principal.IdentityReference)">
+      <summary>Adds an <see cref="T:System.Security.Principal.IdentityReference" /> object to the <see cref="T:System.Security.Principal.IdentityReferenceCollection" /> collection.</summary>
+      <param name="identity">The <see cref="T:System.Security.Principal.IdentityReference" /> object to add to the collection.</param>
+      <exception cref="T:System.ArgumentNullException">
+        <paramref name="identity" /> is <see langword="null" />.</exception>
+    </member>
+    <member name="M:System.Security.Principal.IdentityReferenceCollection.Clear">
+      <summary>Clears all <see cref="T:System.Security.Principal.IdentityReference" /> objects from the <see cref="T:System.Security.Principal.IdentityReferenceCollection" /> collection.</summary>
+    </member>
+    <member name="M:System.Security.Principal.IdentityReferenceCollection.Contains(System.Security.Principal.IdentityReference)">
+      <summary>Indicates whether the <see cref="T:System.Security.Principal.IdentityReferenceCollection" /> collection contains the specified <see cref="T:System.Security.Principal.IdentityReference" /> object.</summary>
+      <param name="identity">The <see cref="T:System.Security.Principal.IdentityReference" /> object to check for.</param>
+      <exception cref="T:System.ArgumentNullException">
+        <paramref name="identity" /> is <see langword="null" />.</exception>
+      <returns>
+        <see langword="true" /> if the collection contains the specified object.</returns>
+    </member>
+    <member name="M:System.Security.Principal.IdentityReferenceCollection.CopyTo(System.Security.Principal.IdentityReference[],System.Int32)">
+      <summary>Copies the <see cref="T:System.Security.Principal.IdentityReferenceCollection" /> collection to an <see cref="T:System.Security.Principal.IdentityReferenceCollection" /> array, starting at the specified index.</summary>
+      <param name="array">An <see cref="T:System.Security.Principal.IdentityReferenceCollection" /> array object to which the <see cref="T:System.Security.Principal.IdentityReferenceCollection" /> collection is to be copied.</param>
+      <param name="offset">The zero-based index in <paramref name="array" /> where the <see cref="T:System.Security.Principal.IdentityReferenceCollection" /> collection is to be copied.</param>
+    </member>
+    <member name="M:System.Security.Principal.IdentityReferenceCollection.GetEnumerator">
+      <summary>Gets an enumerator that can be used to iterate through the <see cref="T:System.Security.Principal.IdentityReferenceCollection" /> collection.</summary>
+      <returns>An enumerator for the <see cref="T:System.Security.Principal.IdentityReferenceCollection" /> collection.</returns>
+    </member>
+    <member name="M:System.Security.Principal.IdentityReferenceCollection.Remove(System.Security.Principal.IdentityReference)">
+      <summary>Removes the specified <see cref="T:System.Security.Principal.IdentityReference" /> object from the collection.</summary>
+      <param name="identity">The <see cref="T:System.Security.Principal.IdentityReference" /> object to remove.</param>
+      <exception cref="T:System.ArgumentNullException">
+        <paramref name="identity" /> is <see langword="null" />.</exception>
+      <returns>
+        <see langword="true" /> if the specified object was removed from the collection.</returns>
+    </member>
+    <member name="M:System.Security.Principal.IdentityReferenceCollection.System#Collections#IEnumerable#GetEnumerator">
+      <summary>Gets an enumerator that can be used to iterate through the <see cref="T:System.Security.Principal.IdentityReferenceCollection" /> collection.</summary>
+      <returns>An enumerator for the <see cref="T:System.Security.Principal.IdentityReferenceCollection" /> collection.</returns>
+    </member>
+    <member name="M:System.Security.Principal.IdentityReferenceCollection.Translate(System.Type)">
+      <summary>Converts the objects in the collection to the specified type. Calling this method is the same as calling <see cref="M:System.Security.Principal.IdentityReferenceCollection.Translate(System.Type,System.Boolean)" /> with the second parameter set to <see langword="false" />, which means that exceptions will not be thrown for items that fail conversion.</summary>
+      <param name="targetType">The type to which items in the collection are being converted.</param>
+      <returns>A <see cref="T:System.Security.Principal.IdentityReferenceCollection" /> collection that represents the converted contents of the original collection.</returns>
+    </member>
+    <member name="M:System.Security.Principal.IdentityReferenceCollection.Translate(System.Type,System.Boolean)">
+      <summary>Converts the objects in the collection to the specified type and uses the specified fault tolerance to handle or ignore errors associated with a type not having a conversion mapping.</summary>
+      <param name="targetType">The type to which items in the collection are being converted.</param>
+      <param name="forceSuccess">A Boolean value that determines how conversion errors are handled.  
+  
+ If <paramref name="forceSuccess" /> is <see langwor

@@ -1,0 +1,219 @@
+C:\Users\HP\Downloads\6 Thang 9 sua lan 2\HoanThien\bin\Debug\HoanThien.exe.config
+C:\Users\HP\Downloads\6 Thang 9 sua lan 2\HoanThien\bin\Debug\HoanThien.exe
+C:\Users\HP\Downloads\6 Thang 9 sua lan 2\HoanThien\bin\Debug\EntityFramework.dll
+C:\Users\HP\Downloads\6 Thang 9 sua lan 2\HoanThien\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HP\Downloads\6 Thang 9 sua lan 2\HoanThien\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\HP\Downloads\6 Thang 9 sua lan 2\HoanThien\bin\Debug\GMap.NET.Core.dll
+C:\Users\HP\Downloads\6 Thang 9 sua lan 2\HoanThien\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\HP\Downloads\6 Thang 9 sua lan 2\HoanThien\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\HP\Downloads\6 Thang 9 sua lan 2\HoanThien\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\HP\Downloads\6 Thang 9 sua lan 2\HoanThien\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\HP\Downloads\6 Thang 9 sua lan 2\HoanThien\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\HP\Downloads\6 Thang 9 sua lan 2\HoanThien\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HP\Downloads\6 Thang 9 sua lan 2\HoanThien\bin\Debug\RJContro;.dll
+C:\Users\HP\Downloads\6 Thang 9 sua lan 2\HoanThien\bin\Debug\System.Buffers.dll
+C:\Users\HP\Downloads\6 Thang 9 sua lan 2\HoanThien\bin\Debug\System.Data.SqlClient.dll
+C:\Users\HP\Downloads\6 Thang 9 sua lan 2\HoanThien\bin\Debug\System.Data.SQLite.dll
+C:\Users\HP\Downloads\6 Thang 9 sua lan 2\HoanThien\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\HP\Downloads\6 Thang 9 sua lan 2\HoanThien\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\HP\Downloads\6 Thang 9 sua lan 2\HoanThien\bin\Debug\System.Memory.dll
+C:\Users\HP\Downloads\6 Thang 9 sua lan 2\HoanThien\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\HP\Downloads\6 Thang 9 sua lan 2\HoanThien\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HP\Downloads\6 Thang 9 sua lan 2\HoanThien\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\HP\Downloads\6 Thang 9 sua lan 2\HoanThien\bin\Debug\System.ValueTuple.dll
+C:\Users\HP\Downloads\6 Thang 9 sua lan 2\HoanThien\bin\Debug\EntityFramework.xml
+C:\Users\HP\Downloads\6 Thang 9 sua lan 2\HoanThien\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HP\Downloads\6 Thang 9 sua lan 2\HoanThien\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\HP\Downloads\6 Thang 9 sua lan 2\HoanThien\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\HP\Downloads\6 Thang 9 sua lan 2\HoanThien\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\HP\Downloads\6 Thang 9 sua lan 2\HoanThien\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HP\Downloads\6 Thang 9 sua lan 2\HoanThien\bin\Debug\RJContro;.pdb
+C:\Users\HP\Downloads\6 Thang 9 sua lan 2\HoanThien\bin\Debug\RJContro;.dll.config
+C:\Users\HP\Downloads\6 Thang 9 sua lan 2\HoanThien\bin\Debug\System.Buffers.xml
+C:\Users\HP\Downloads\6 Thang 9 sua lan 2\HoanThien\bin\Debug\System.Data.SqlClient.xml
+C:\Users\HP\Downloads\6 Thang 9 sua lan 2\HoanThien\bin\Debug\System.Data.SQLite.xml
+C:\Users\HP\Downloads\6 Thang 9 sua lan 2\HoanThien\bin\Debug\System.Memory.xml
+C:\Users\HP\Downloads\6 Thang 9 sua lan 2\HoanThien\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\HP\Downloads\6 Thang 9 sua lan 2\HoanThien\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\HP\Downloads\6 Thang 9 sua lan 2\HoanThien\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\HP\Downloads\6 Thang 9 sua lan 2\HoanThien\bin\Debug\System.ValueTuple.xml
+C:\Users\HP\Downloads\6 Thang 9 sua lan 2\HoanThien\obj\Debug\HoanThien.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\6 Thang 9 sua lan 2\HoanThien\obj\Debug\HoanThien.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Downloads\6 Thang 9 sua lan 2\HoanThien\obj\Debug\HoanThien.DangKy.resources
+C:\Users\HP\Downloads\6 Thang 9 sua lan 2\HoanThien\obj\Debug\HoanThien.FormAdmin.resources
+C:\Users\HP\Downloads\6 Thang 9 sua lan 2\HoanThien\obj\Debug\HoanThien.Forms.FormQLShipper.resources
+C:\Users\HP\Downloads\6 Thang 9 sua lan 2\HoanThien\obj\Debug\HoanThien.Forms.FormQLHang.resources
+C:\Users\HP\Downloads\6 Thang 9 sua lan 2\HoanThien\obj\Debug\HoanThien.FormChildCustomer.FormCthd.resources
+C:\Users\HP\Downloads\6 Thang 9 sua lan 2\HoanThien\obj\Debug\HoanThien.FormChildCustomer.FormHD.resources
+C:\Users\HP\Downloads\6 Thang 9 sua lan 2\HoanThien\obj\Debug\HoanThien.FormChildCustomer.FormLichSu.resources
+C:\Users\HP\Downloads\6 Thang 9 sua lan 2\HoanThien\obj\Debug\HoanThien.FormChildCustomer.FormKh.resources
+C:\Users\HP\Downloads\6 Thang 9 sua lan 2\HoanThien\obj\Debug\HoanThien.FormChildCustomer.frm_DoiMKKH.resources
+C:\Users\HP\Downloads\6 Thang 9 sua lan 2\HoanThien\obj\Debug\HoanThien.FormChildCustomer.HoaDon.resources
+C:\Users\HP\Downloads\6 Thang 9 sua lan 2\HoanThien\obj\Debug\HoanThien.FormChildCustomer.thongtincanhan.resources
+C:\Users\HP\Downloads\6 Thang 9 sua lan 2\HoanThien\obj\Debug\HoanThien.FormChildShipper.frm_VanChuyen.resources
+C:\Users\HP\Downloads\6 Thang 9 sua lan 2\HoanThien\obj\Debug\HoanThien.FormKhachHang.resources
+C:\Users\HP\Downloads\6 Thang 9 sua lan 2\HoanThien\obj\Debug\HoanThien.FormShipper.resources
+C:\Users\HP\Downloads\6 Thang 9 sua lan 2\HoanThien\obj\Debug\HoanThien.Properties.Resources.resources
+C:\Users\HP\Downloads\6 Thang 9 sua lan 2\HoanThien\obj\Debug\QuanLyShipper.RJControls.RJButton.resources
+C:\Users\HP\Downloads\6 Thang 9 sua lan 2\HoanThien\obj\Debug\QuanLyShipper.RJControls.RJComboBox.resources
+C:\Users\HP\Downloads\6 Thang 9 sua lan 2\HoanThien\obj\Debug\HoanThien.csproj.GenerateResource.cache
+C:\Users\HP\Downloads\6 Thang 9 sua lan 2\HoanThien\obj\Debug\HoanThien.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\6 Thang 9 sua lan 2\HoanThien\obj\Debug\HoanThien.csproj.CopyComplete
+C:\Users\HP\Downloads\6 Thang 9 sua lan 2\HoanThien\obj\Debug\HoanThien.exe
+C:\Users\HP\Downloads\6 Thang 9 sua lan 2\HoanThien\obj\Debug\HoanThien.pdb
+C:\Users\HP\Downloads\6 Thang 9 sua lan 2\HoanThien\bin\Debug\HoanThien.pdb
+C:\Users\HP\Downloads\6 Thang 9 sua lan 2\HoanThien\obj\Debug\HoanThien.frm_HeyYou.resources
+C:\Users\HP\Downloads\6 Thang 9 sua lan 2\HoanThien\obj\Debug\HoanThien.FormChildShipper.frm_QuenMK.resources
+C:\Users\HP\Downloads\6 Thang 9 sua lan 2\HoanThien\obj\Debug\HoanThien.Forms.FormQLKH.resources
+C:\Users\HP\Downloads\6 Thang 9 sua lan 2\HoanThien\obj\Debug\HoanThien.Forms.FormChinhSuaDonHang.resources
+C:\Users\HP\Downloads\6 Thang 9 sua lan 2\HoanThien\obj\Debug\HoanThien.Forms.FormPBShipper.resources
+C:\Users\HP\Downloads\xong\HoanThien\obj\Debug\HoanThien.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\xong\HoanThien\obj\Debug\HoanThien.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Downloads\xong\HoanThien\obj\Debug\HoanThien.DangKy.resources
+C:\Users\HP\Downloads\xong\HoanThien\obj\Debug\HoanThien.FormAdmin.resources
+C:\Users\HP\Downloads\xong\HoanThien\obj\Debug\HoanThien.Forms.FormChinhSuaDonHang.resources
+C:\Users\HP\Downloads\xong\HoanThien\obj\Debug\HoanThien.Forms.FormPBShipper.resources
+C:\Users\HP\Downloads\xong\HoanThien\obj\Debug\HoanThien.Forms.FormQLKH.resources
+C:\Users\HP\Downloads\xong\HoanThien\obj\Debug\HoanThien.Forms.FormQLShipper.resources
+C:\Users\HP\Downloads\xong\HoanThien\obj\Debug\HoanThien.Forms.FormQLHang.resources
+C:\Users\HP\Downloads\xong\HoanThien\obj\Debug\HoanThien.FormChildCustomer.FormCthd.resources
+C:\Users\HP\Downloads\xong\HoanThien\obj\Debug\HoanThien.FormChildCustomer.FormHD.resources
+C:\Users\HP\Downloads\xong\HoanThien\obj\Debug\HoanThien.FormChildCustomer.FormLichSu.resources
+C:\Users\HP\Downloads\xong\HoanThien\obj\Debug\HoanThien.FormChildCustomer.FormKh.resources
+C:\Users\HP\Downloads\xong\HoanThien\obj\Debug\HoanThien.FormChildCustomer.frm_DoiMKKH.resources
+C:\Users\HP\Downloads\xong\HoanThien\obj\Debug\HoanThien.FormChildCustomer.HoaDon.resources
+C:\Users\HP\Downloads\xong\HoanThien\obj\Debug\HoanThien.FormChildCustomer.thongtincanhan.resources
+C:\Users\HP\Downloads\xong\HoanThien\obj\Debug\HoanThien.FormChildShipper.frm_doiMK.resources
+C:\Users\HP\Downloads\xong\HoanThien\obj\Debug\HoanThien.FormChildShipper.frm_VanChuyen.resources
+C:\Users\HP\Downloads\xong\HoanThien\obj\Debug\HoanThien.FormKhachHang.resources
+C:\Users\HP\Downloads\xong\HoanThien\obj\Debug\HoanThien.FormShipper.resources
+C:\Users\HP\Downloads\xong\HoanThien\obj\Debug\HoanThien.frm_HeyYou.resources
+C:\Users\HP\Downloads\xong\HoanThien\obj\Debug\HoanThien.FormChildShipper.frm_QuenMK.resources
+C:\Users\HP\Downloads\xong\HoanThien\obj\Debug\HoanThien.Properties.Resources.resources
+C:\Users\HP\Downloads\xong\HoanThien\obj\Debug\QuanLyShipper.RJControls.RJButton.resources
+C:\Users\HP\Downloads\xong\HoanThien\obj\Debug\QuanLyShipper.RJControls.RJComboBox.resources
+C:\Users\HP\Downloads\xong\HoanThien\obj\Debug\HoanThien.csproj.GenerateResource.cache
+C:\Users\HP\Downloads\xong\HoanThien\obj\Debug\HoanThien.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\xong\HoanThien\obj\Debug\HoanThien.exe
+C:\Users\HP\Downloads\xong\HoanThien\obj\Debug\HoanThien.pdb
+C:\Users\HP\Downloads\xong\HoanThien\bin\Debug\HoanThien.exe.config
+C:\Users\HP\Downloads\xong\HoanThien\bin\Debug\HoanThien.exe
+C:\Users\HP\Downloads\xong\HoanThien\bin\Debug\HoanThien.pdb
+C:\Users\HP\Downloads\xong\HoanThien\bin\Debug\EntityFramework.dll
+C:\Users\HP\Downloads\xong\HoanThien\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HP\Downloads\xong\HoanThien\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\HP\Downloads\xong\HoanThien\bin\Debug\GMap.NET.Core.dll
+C:\Users\HP\Downloads\xong\HoanThien\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\HP\Downloads\xong\HoanThien\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\HP\Downloads\xong\HoanThien\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\HP\Downloads\xong\HoanThien\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\HP\Downloads\xong\HoanThien\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\HP\Downloads\xong\HoanThien\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HP\Downloads\xong\HoanThien\bin\Debug\RJContro;.dll
+C:\Users\HP\Downloads\xong\HoanThien\bin\Debug\System.Buffers.dll
+C:\Users\HP\Downloads\xong\HoanThien\bin\Debug\System.Data.SqlClient.dll
+C:\Users\HP\Downloads\xong\HoanThien\bin\Debug\System.Data.SQLite.dll
+C:\Users\HP\Downloads\xong\HoanThien\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\HP\Downloads\xong\HoanThien\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\HP\Downloads\xong\HoanThien\bin\Debug\System.Memory.dll
+C:\Users\HP\Downloads\xong\HoanThien\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\HP\Downloads\xong\HoanThien\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HP\Downloads\xong\HoanThien\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\HP\Downloads\xong\HoanThien\bin\Debug\System.ValueTuple.dll
+C:\Users\HP\Downloads\xong\HoanThien\bin\Debug\EntityFramework.xml
+C:\Users\HP\Downloads\xong\HoanThien\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HP\Downloads\xong\HoanThien\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\HP\Downloads\xong\HoanThien\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\HP\Downloads\xong\HoanThien\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\HP\Downloads\xong\HoanThien\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HP\Downloads\xong\HoanThien\bin\Debug\RJContro;.pdb
+C:\Users\HP\Downloads\xong\HoanThien\bin\Debug\RJContro;.dll.config
+C:\Users\HP\Downloads\xong\HoanThien\bin\Debug\System.Buffers.xml
+C:\Users\HP\Downloads\xong\HoanThien\bin\Debug\System.Data.SqlClient.xml
+C:\Users\HP\Downloads\xong\HoanThien\bin\Debug\System.Data.SQLite.xml
+C:\Users\HP\Downloads\xong\HoanThien\bin\Debug\System.Memory.xml
+C:\Users\HP\Downloads\xong\HoanThien\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\HP\Downloads\xong\HoanThien\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\HP\Downloads\xong\HoanThien\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\HP\Downloads\xong\HoanThien\bin\Debug\System.ValueTuple.xml
+C:\Users\HP\Downloads\xong\HoanThien\obj\Debug\HoanThien.csproj.CopyComplete
+C:\Users\HP\Downloads\xong\HoanThien\obj\Debug\HoanThien.FormChildShipper.frm_DonHang.resources
+C:\Users\HP\Downloads\xong\HoanThien\obj\Debug\HoanThien.FormChildShipper.frm_ThongBao.resources
+C:\Users\HP\Downloads\xong\HoanThien\obj\Debug\HoanThien.FormChildShipper.frm_CapNhatThongTin.resources
+C:\Users\HP\Downloads\xong\HoanThien\obj\Debug\HoanThien.FormChildShipper.frm_TaiKhoan.resources
+C:\Users\HP\Downloads\xong\HoanThien\obj\Debug\HoanThien.Forms.FormThongKe.resources
+E:\xong\HoanThien\bin\Debug\HoanThien.exe.config
+E:\xong\HoanThien\bin\Debug\HoanThien.exe
+E:\xong\HoanThien\bin\Debug\HoanThien.pdb
+E:\xong\HoanThien\bin\Debug\EntityFramework.dll
+E:\xong\HoanThien\bin\Debug\EntityFramework.SqlServer.dll
+E:\xong\HoanThien\bin\Debug\FontAwesome.Sharp.dll
+E:\xong\HoanThien\bin\Debug\GMap.NET.Core.dll
+E:\xong\HoanThien\bin\Debug\GMap.NET.WindowsForms.dll
+E:\xong\HoanThien\bin\Debug\GMap.NET.WindowsPresentation.dll
+E:\xong\HoanThien\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\xong\HoanThien\bin\Debug\Microsoft.Extensions.Configuration.dll
+E:\xong\HoanThien\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\xong\HoanThien\bin\Debug\Newtonsoft.Json.dll
+E:\xong\HoanThien\bin\Debug\RJContro;.dll
+E:\xong\HoanThien\bin\Debug\System.Buffers.dll
+E:\xong\HoanThien\bin\Debug\System.Data.SqlClient.dll
+E:\xong\HoanThien\bin\Debug\System.Data.SQLite.dll
+E:\xong\HoanThien\bin\Debug\System.Data.SQLite.EF6.dll
+E:\xong\HoanThien\bin\Debug\System.Data.SQLite.Linq.dll
+E:\xong\HoanThien\bin\Debug\System.Memory.dll
+E:\xong\HoanThien\bin\Debug\System.Numerics.Vectors.dll
+E:\xong\HoanThien\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\xong\HoanThien\bin\Debug\System.Security.Principal.Windows.dll
+E:\xong\HoanThien\bin\Debug\System.ValueTuple.dll
+E:\xong\HoanThien\bin\Debug\EntityFramework.xml
+E:\xong\HoanThien\bin\Debug\EntityFramework.SqlServer.xml
+E:\xong\HoanThien\bin\Debug\Microsoft.Extensions.Configuration.xml
+E:\xong\HoanThien\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\xong\HoanThien\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\xong\HoanThien\bin\Debug\Newtonsoft.Json.xml
+E:\xong\HoanThien\bin\Debug\RJContro;.pdb
+E:\xong\HoanThien\bin\Debug\RJContro;.dll.config
+E:\xong\HoanThien\bin\Debug\System.Buffers.xml
+E:\xong\HoanThien\bin\Debug\System.Data.SqlClient.xml
+E:\xong\HoanThien\bin\Debug\System.Data.SQLite.xml
+E:\xong\HoanThien\bin\Debug\System.Memory.xml
+E:\xong\HoanThien\bin\Debug\System.Numerics.Vectors.xml
+E:\xong\HoanThien\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\xong\HoanThien\bin\Debug\System.Security.Principal.Windows.xml
+E:\xong\HoanThien\bin\Debug\System.ValueTuple.xml
+E:\xong\HoanThien\obj\Debug\HoanThien.csproj.AssemblyReference.cache
+E:\xong\HoanThien\obj\Debug\HoanThien.csproj.SuggestedBindingRedirects.cache
+E:\xong\HoanThien\obj\Debug\HoanThien.DangKy.resources
+E:\xong\HoanThien\obj\Debug\HoanThien.FormAdmin.resources
+E:\xong\HoanThien\obj\Debug\HoanThien.Forms.FormChinhSuaDonHang.resources
+E:\xong\HoanThien\obj\Debug\HoanThien.Forms.FormPBShipper.resources
+E:\xong\HoanThien\obj\Debug\HoanThien.Forms.FormQLKH.resources
+E:\xong\HoanThien\obj\Debug\HoanThien.Forms.FormQLShipper.resources
+E:\xong\HoanThien\obj\Debug\HoanThien.Forms.FormQLHang.resources
+E:\xong\HoanThien\obj\Debug\HoanThien.Forms.FormThongKe.resources
+E:\xong\HoanThien\obj\Debug\HoanThien.FormChildCustomer.FormCthd.resources
+E:\xong\HoanThien\obj\Debug\HoanThien.FormChildCustomer.FormHD.resources
+E:\xong\HoanThien\obj\Debug\HoanThien.FormChildCustomer.FormLichSu.resources
+E:\xong\HoanThien\obj\Debug\HoanThien.FormChildCustomer.FormKh.resources
+E:\xong\HoanThien\obj\Debug\HoanThien.FormChildCustomer.frm_DoiMKKH.resources
+E:\xong\HoanThien\obj\Debug\HoanThien.FormChildCustomer.HoaDon.resources
+E:\xong\HoanThien\obj\Debug\HoanThien.FormChildCustomer.thongtincanhan.resources
+E:\xong\HoanThien\obj\Debug\HoanThien.FormChildShipper.frm_CapNhatThongTin.resources
+E:\xong\HoanThien\obj\Debug\HoanThien.FormChildShipper.frm_doiMK.resources
+E:\xong\HoanThien\obj\Debug\HoanThien.FormChildShipper.frm_DonHang.resources
+E:\xong\HoanThien\obj\Debug\HoanThien.FormChildShipper.frm_TaiKhoan.resources
+E:\xong\HoanThien\obj\Debug\HoanThien.FormChildShipper.frm_ThongBao.resources
+E:\xong\HoanThien\obj\Debug\HoanThien.FormChildShipper.frm_VanChuyen.resources
+E:\xong\HoanThien\obj\Debug\HoanThien.FormKhachHang.resources
+E:\xong\HoanThien\obj\Debug\HoanThien.FormShipper.resources
+E:\xong\HoanThien\obj\Debug\HoanThien.frm_HeyYou.resources
+E:\xong\HoanThien\obj\Debug\HoanThien.FormChildShipper.frm_QuenMK.resources
+E:\xong\HoanThien\obj\Debug\HoanThien.Properties.Resources.resources
+E:\xong\HoanThien\obj\Debug\QuanLyShipper.RJControls.RJButton.resources
+E:\xong\HoanThien\obj\Debug\QuanLyShipper.RJControls.RJComboBox.resources
+E:\xong\HoanThien\obj\Debug\HoanThien.csproj.GenerateResource.cache
+E:\xong\HoanThien\obj\Debug\HoanThien.csproj.CoreCompileInputs.cache
+E:\xong\HoanThien\obj\Debug\HoanThien.csproj.CopyComplete
+E:\xong\HoanThien\obj\Debug\HoanThien.exe
+E:\xong\HoanThien\obj\Debug\HoanThien.pdb
